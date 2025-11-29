@@ -1,4 +1,14 @@
-## Hi there 👋
+
+<a href="https://leetcode.com/u/z3OMNf4Oox/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" /><br>
+  LeetCode
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" /><br>
+  GeeksforGeeks
+</a>
+
 
 <!--
 **Annu9111/Annu9111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
