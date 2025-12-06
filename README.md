@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/u/z30MNF4Oox/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
     <br />
