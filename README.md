@@ -29,7 +29,7 @@
 - Basic OOP concepts  
 - Problem solving & competitive coding (LeetCode / GFG)
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/problemset/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
     <br />
