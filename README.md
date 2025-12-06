@@ -1,13 +1,20 @@
 
-<a href="https://leetcode.com/u/z3OMNf4Oox/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" /><br>
-  LeetCode
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" /><br>
-  GeeksforGeeks
-</a>
+## Hi there 👋
+
+<p align="center">
+  <a href="https://leetcode.com/u/z30MNF4Oox/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+    <br />
+    LeetCode
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />
+    <br />
+    GeeksforGeeks
+  </a>
+</p>
+
 
 
 <!--
