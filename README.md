@@ -41,8 +41,9 @@
     <br />
     GeeksforGeeks
   <a href="https://www.instagram.com/a.nnu_soni/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />
+  <br />Instagram
+</a>
 </p>
 
   </a>
