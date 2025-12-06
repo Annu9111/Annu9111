@@ -4,22 +4,6 @@
 <h3 align="center">Aspiring Software Developer | Python & DSA Enthusiast</h3>
 
 ---
-
-<!-- LeetCode & GFG in one line -->
-<p align="center">
-  <a href="https://leetcode.com/u/z30MNF4Oox/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
-    <br />
-    LeetCode
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />
-    <br />
-    GeeksforGeeks
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -45,14 +29,18 @@
 - Basic OOP concepts  
 - Problem solving & competitive coding (LeetCode / GFG)
 
----
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annu9111&theme=tokyonight" alt="Annu's streak" />
+  <a href="https://leetcode.com/u/z30MNF4Oox/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+    <br />
+    LeetCode
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />
+    <br />
+    GeeksforGeeks
+  </a>
 </p>
 
 ---
