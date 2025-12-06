@@ -40,6 +40,11 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />
     <br />
     GeeksforGeeks
+  <a href="https://www.instagram.com/a.nnu_soni/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
   </a>
 </p>
 
