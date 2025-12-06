@@ -29,20 +29,20 @@
 - Basic OOP concepts  
 - Problem solving & competitive coding (LeetCode / GFG)
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/problemset/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
-    <br />
+    <!-- <br /> -->
 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />
-    <br />
+    <!-- <br /> -->
 
   <a href="https://www.geeksforgeeks.org/dsa/geeksforgeeks-practice-best-online-coding-platform/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />
-  <br />
+  <!-- <br /> -->
 </a>
 </p>
 
