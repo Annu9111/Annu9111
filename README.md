@@ -30,19 +30,19 @@
 - Problem solving & competitive coding (LeetCode / GFG)
 
 <p align="left">
-  <a href="https://leetcode.com/u/z30MNF4Oox/">
+  <a href="https://leetcode.com/problemset/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
     <br />
-    LeetCode
+
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />
     <br />
-    GeeksforGeeks
-  <a href="https://www.instagram.com/a.nnu_soni/">
+
+  <a href="https://www.geeksforgeeks.org/dsa/geeksforgeeks-practice-best-online-coding-platform/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />
-  <br />Instagram
+  <br />
 </a>
 </p>
 
@@ -54,8 +54,9 @@
 ## 📫 Connect with Me
 
 - GitHub: **[Annu9111](https://github.com/Annu9111)**
-- LeetCode: **[Profile](https://leetcode.com/u/z30MNF4Oox/)**
-- GeeksforGeeks: **[Profile](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**  
+- LeetCode: **[Profile](https://leetcode.com/u/z3OMNf4Oox/)**
+- GeeksforGeeks: **[Profile](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
+- Instagram:**[profile](https://www.instagram.com/a.nnu_soni/)**
 - Email: aksoni911190@gmail.com
 
 ---
