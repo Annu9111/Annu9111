@@ -47,22 +47,12 @@
 
 ---
 
-
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annu9111&show_icons=true&theme=tokyonight" alt="Annu's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annu9111&theme=tokyonight" alt="Annu's streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu9111&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
