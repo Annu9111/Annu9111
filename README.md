@@ -27,7 +27,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms in Python**
 - 💻 Solving problems on **LeetCode** and **GeeksforGeeks**
 - 🎮 I like building small projects like **games & mini-apps**
-- 🎯 Goal: Become strong in **DSA + Development** for placements
+- 🎯 Goal: wants to Become strong in **DSA + Development** 
 - 📚 Also exploring **web development (HTML, CSS, JS)**
 
 ---
