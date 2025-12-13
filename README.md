@@ -61,6 +61,9 @@
 - Instagram:**[profile](https://www.instagram.com/a.nnu_soni/)**
 - Email: aksoni911190@gmail.com
 
+- ![Profile Views](https://komarev.com/ghpvc/?username=Annu9111&color=blue)
+
+
 ---
 
 ⭐️ _Thanks for visiting my profile!_  
