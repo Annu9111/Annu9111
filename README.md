@@ -59,6 +59,7 @@
 - LeetCode: **[Profile](https://leetcode.com/u/z3OMNf4Oox/)**
 - GeeksforGeeks: **[Profile](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
 - Instagram:**[profile](https://www.instagram.com/a.nnu_soni/)**
+- youtube:**[profile](https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg)**
 - Email: aksoni911190@gmail.com
 
   
