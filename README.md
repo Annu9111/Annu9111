@@ -43,7 +43,7 @@
     
 
   <a href="https://www.geeksforgeeks.org/dsa/geeksforgeeks-practice-best-online-coding-platform/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />
+  <img "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />src=
   <!-- <br /> -->
   <a href="https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg">
   <img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_640.png" width="40"/> 
@@ -59,9 +59,9 @@
 
 - GitHub: **[Annu9111](https://github.com/Annu9111)**
 - LeetCode: **[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />](https://leetcode.com/u/z3OMNf4Oox/)**
-- GeeksforGeeks: **[Profile](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
-- Instagram:**[profile](https://www.instagram.com/a.nnu_soni/)**
-- Youtube:**[profile](https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg)**
+- GeeksforGeeks: **[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
+- Instagram:**[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/> ](https://www.instagram.com/a.nnu_soni/)**
+- Youtube:**[<img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_640.png" width="40"/> ](https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg)**
 - Email: aksoni911190@gmail.com
 
   
