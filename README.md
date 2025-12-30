@@ -35,7 +35,7 @@
 
 ## 📫 Connect with Me
 
-- GitHub: **[<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40"/>](https://github.com/Annu9111)**
+- GitHub: **[<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="40"/>](https://github.com/Annu9111)**
 - LeetCode: **[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />](https://leetcode.com/u/z3OMNf4Oox/)**
 - GeeksforGeeks: **[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
 - Instagram:**[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/> ](https://www.instagram.com/a.nnu_soni/)**
