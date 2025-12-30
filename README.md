@@ -58,7 +58,7 @@
 ## 📫 Connect with Me
 
 - GitHub: **[Annu9111](https://github.com/Annu9111)**
-- LeetCode: **[Profile](https://leetcode.com/u/z3OMNf4Oox/)**
+- LeetCode: **[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />](https://leetcode.com/u/z3OMNf4Oox/)**
 - GeeksforGeeks: **[Profile](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
 - Instagram:**[profile](https://www.instagram.com/a.nnu_soni/)**
 - Youtube:**[profile](https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg)**
