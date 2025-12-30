@@ -45,6 +45,8 @@
   <a href="https://www.geeksforgeeks.org/dsa/geeksforgeeks-practice-best-online-coding-platform/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />
   <!-- <br /> -->
+  <a href="https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg">
+  <img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_640.png" width="40"/> 
 </a>
 </p>
 
