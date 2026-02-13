@@ -40,7 +40,7 @@
 - GeeksforGeeks: **[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
 - Instagram:**[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/> ](https://www.instagram.com/a.nnu_soni/)**
 - Youtube:**[<img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_640.png" width="40"/> ](https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg)**
-- Email: aksoni911190@gmail.com
+  
 
   
 
