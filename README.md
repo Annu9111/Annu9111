@@ -40,7 +40,7 @@
 - GeeksforGeeks: **[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
 - Instagram:**[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/> ](https://www.instagram.com/a.nnu_soni/)**
 - Youtube:**[<img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_640.png" width="40"/> ](https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg)**
-- linkedin:**[img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg?semt=ais_user_personalization&w=740&q=80" width="40/>"](https://www.linkedin.com/in/annu-soni-7555ab3b2/)**
+- linkedin:**[img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40"/>](https://www.linkedin.com/in/annu-soni-7555ab3b2/)**
   
 
   
