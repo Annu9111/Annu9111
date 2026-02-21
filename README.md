@@ -35,12 +35,14 @@
 
 ## 📫 Connect with Me
 
-- GitHub: **[<img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="40"/>](https://github.com/Annu9111)**
-- LeetCode: **[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />](https://leetcode.com/u/z3OMNf4Oox/)**
-- GeeksforGeeks: **[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" />](https://www.geeksforgeeks.org/profile/annusonjgx8?from=edit&tab=activity)**
-- Instagram:**[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/> ](https://www.instagram.com/a.nnu_soni/)**
-- Youtube:**[<img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_640.png" width="40"/> ](https://www.youtube.com/channel/UC4xFnWBlNM1G0vEGVc7Ermg)**
-- linkedin:**[img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="40"/>](https://www.linkedin.com/in/annu-soni-7555ab3b2/)**
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Annu9111)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/z3OMNf4Oox/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/annusonjgx8/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.nnu_soni/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4xFnWBINM1G0vEGVc7Ermg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annu-soni-7555ab3b2/)
   
 
   
