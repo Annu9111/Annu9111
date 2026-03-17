@@ -20,8 +20,9 @@
 
 **Languages**
 
-- Python 🐍    
-- HTML, CSS ,JS 
+- Python 🐍
+- Flask 
+- HTML, CSS ,JS
 
 **Topics**
 
