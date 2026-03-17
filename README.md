@@ -23,6 +23,7 @@
 - Python 🐍
 - Flask 
 - HTML, CSS ,JS
+- SQL
 
 **Topics**
 
