@@ -24,6 +24,8 @@
 - Flask 
 - HTML, CSS ,JS
 - SQL
+- C, C++
+- Java
 
 **Topics**
 
