@@ -1,7 +1,6 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:3776AB,100:FFD43B&height=230&section=header&text=Annu%20Soni&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20Backend%20Developer&descSize=24&descAlignY=62" width="100%" alt="header"/>
+<img src="./assets/banner.svg" width="100%" alt="Annu Soni - Python Backend Developer"/>
 
 <a href="https://github.com/Annu9111">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD43B&center=true&vCenter=true&width=700&lines=%3E%3E%3E+print(%22Hi%2C+I'm+Annu+Soni+%F0%9F%91%8B%22);%3E%3E%3E+building_apis+%3D+FastAPI+%2B+Flask;%3E%3E%3E+solving_dsa+%3D+%22LeetCode+%26+GFG%22;%3E%3E%3E+learning+%3D+%5B%22Docker%22%2C+%22AWS%22%2C+%22System+Design%22%5D;%3E%3E%3E+while+True%3A+keep_growing()" alt="Typing SVG" />
@@ -16,7 +15,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 <img src="https://komarev.com/ghpvc/?username=Annu9111&label=Profile%20Views&color=3776AB&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/Annu9111?label=Followers&style=flat-square&logo=github&color=FFD43B&labelColor=3776AB" alt="followers"/>
 
 </div>
 
@@ -53,8 +51,7 @@ class AnnuSoni:
 
 
 if __name__ == "__main__":
-    me = AnnuSoni()
-    print(me.goal())
+    print(AnnuSoni().goal())
 ```
 
 ### ⚡ My API, if I were one
@@ -98,22 +95,15 @@ async def about():
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Annu9111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=FFD43B&icon_color=3776AB" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu9111&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD43B&langs_count=8" alt="Top languages"/>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Annu9111&theme=tokyonight&hide_border=true&ring=3776AB&fire=FFD43B&currStreakLabel=FFD43B" alt="Streak"/>
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Annu9111&theme=tokyo-night&hide_border=true&area=true&color=FFD43B&line=3776AB&point=ffffff" width="100%" alt="Activity graph"/>
+<br/>
 
-</div>
-
----
-
-## 🧩 DSA & Problem Solving
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/z3OMNf4Oox?theme=dark&font=Karma&ext=heatmap" width="600" alt="LeetCode stats"/>
+<img src="https://streak-stats.demolab.com?user=Annu9111&theme=tokyonight&hide_border=true&mode=weekly&ring=3776AB&fire=FFD43B&currStreakLabel=FFD43B" alt="GitHub streak"/>
 
 </div>
 
@@ -137,18 +127,16 @@ while alive:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annu-kumari-soni-7555ab3b2/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/z3OMNf4Oox/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/annusonjgx8/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code-AndAnnu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.nnu_soni/)
+<a href="https://www.linkedin.com/in/annu-kumari-soni-7555ab3b2/"><img src="./assets/linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/z3OMNf4Oox/"><img src="./assets/leetcode.svg" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/profile/annusonjgx8/"><img src="./assets/geeksforgeeks.svg" alt="GeeksforGeeks"/></a>
+<a href="https://www.youtube.com/@Code-AndAnnu"><img src="./assets/youtube.svg" alt="YouTube"/></a>
+<a href="https://www.instagram.com/a.nnu_soni/"><img src="./assets/instagram.svg" alt="Instagram"/></a>
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=A0A0A0&center=true&vCenter=true&width=650&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds" alt="quote"/>
 
 ⭐ _Thanks for visiting! Leave a star on anything you like._ 🙂
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:FFD43B&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
