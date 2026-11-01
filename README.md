@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Annu Soni - Python Backend Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:FFD43B&height=230&section=header&text=Annu%20Soni&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Python%20Backend%20Developer&descSize=24&descAlignY=62" width="100%" alt="header"/>
 
 <a href="https://github.com/Annu9111">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD43B&center=true&vCenter=true&width=700&lines=%3E%3E%3E+print(%22Hi%2C+I'm+Annu+Soni+%F0%9F%91%8B%22);%3E%3E%3E+building_apis+%3D+FastAPI+%2B+Flask;%3E%3E%3E+solving_dsa+%3D+%22LeetCode+%26+GFG%22;%3E%3E%3E+learning+%3D+%5B%22Docker%22%2C+%22AWS%22%2C+%22System+Design%22%5D;%3E%3E%3E+while+True%3A+keep_growing()" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD43B&center=true&vCenter=true&width=700&lines=%3E%3E%3E+print(%22Hi%2C+I'm+Annu+Soni+%F0%9F%91%8B%22);%3E%3E%3E+building_apis+%3D+FastAPI+%2B+Flask;%3E%3E%3E+learning+%3D+%5B%22Docker%22%2C+%22AWS%22%2C+%22System+Design%22%5D;%3E%3E%3E+while+True%3A+keep_growing()" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -13,8 +13,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-<img src="https://komarev.com/ghpvc/?username=Annu9111&label=Profile%20Views&color=3776AB&style=flat-square" alt="views"/>
 
 </div>
 
@@ -95,14 +93,6 @@ async def about():
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
-
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Annu9111&theme=tokyonight&hide_border=true&mode=weekly&ring=3776AB&fire=FFD43B&currStreakLabel=FFD43B" alt="GitHub streak"/>
 
 </div>
@@ -127,16 +117,16 @@ while alive:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/annu-kumari-soni-7555ab3b2/"><img src="./assets/linkedin.svg" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/z3OMNf4Oox/"><img src="./assets/leetcode.svg" alt="LeetCode"/></a>
-<a href="https://www.geeksforgeeks.org/profile/annusonjgx8/"><img src="./assets/geeksforgeeks.svg" alt="GeeksforGeeks"/></a>
-<a href="https://www.youtube.com/@Code-AndAnnu"><img src="./assets/youtube.svg" alt="YouTube"/></a>
-<a href="https://www.instagram.com/a.nnu_soni/"><img src="./assets/instagram.svg" alt="Instagram"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annu-kumari-soni-7555ab3b2/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/z3OMNf4Oox/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/annusonjgx8/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code-AndAnnu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.nnu_soni/)
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=A0A0A0&center=true&vCenter=true&width=650&lines=%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds" alt="quote"/>
+<br/>
 
 ⭐ _Thanks for visiting! Leave a star on anything you like._ 🙂
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:FFD43B&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
