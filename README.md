@@ -108,19 +108,7 @@ async def about():
 
 ---
 
-## 🗓 Daily Routine
 
-```python
-while alive:
-    learn("something new")
-    solve("1+ DSA problem")
-    build("a small project")
-    commit("to GitHub")
-    if stuck:
-        debug(); google(); try_again()
-```
-
----
 
 ## 🤝 Let's Connect
 
