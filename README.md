@@ -14,10 +14,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Annu9111&color=3776AB&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-
 </div>
 
 ---
@@ -93,42 +89,21 @@ async def about():
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**YOUR-PROJECT-1**](https://github.com/Annu9111/YOUR-REPO-1) | One line: what it does and why it matters | `FastAPI` `Docker` `PostgreSQL` |
-| [**YOUR-PROJECT-2**](https://github.com/Annu9111/YOUR-REPO-2) | One line: what it does and why it matters | `Python` `Flask` `SQLite` |
-| [**YOUR-PROJECT-3**](https://github.com/Annu9111/YOUR-REPO-3) | One line: what it does and why it matters | `Python` `Pygame` |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Annu9111&theme=tokyonight&hide_border=true&mode=weekly&ring=3776AB&fire=FFD43B&currStreakLabel=FFD43B&cache_seconds=14400" alt="GitHub streak"/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Annu9111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=FFD43B&icon_color=3776AB" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annu9111&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD43B" alt="Top languages"/>
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Annu9111&theme=tokyonight" alt="Profile details"/>
 
-</div>
+<br/>
 
----
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Annu9111&theme=tokyonight" alt="Repos per language"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Annu9111&theme=tokyonight" alt="Most commit language"/>
 
-## 🐍 Contribution Snake
+<br/>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Annu9111/Annu9111/output/snake-dark.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Annu9111/Annu9111/output/snake.svg"/>
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Annu9111&theme=tokyonight" alt="GitHub stats"/>
+
 </div>
 
 ---
